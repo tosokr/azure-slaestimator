@@ -30,7 +30,7 @@ jobs:
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
-        app-name: 'slaestimator'
+        app-name: 'compositeslaestimator'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile }}
         package: ${{env.DOTNET_ROOT}}/myapp 
