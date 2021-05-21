@@ -378,7 +378,7 @@
         "Name": "Active Directory",
         "Notes": "Azure AD Basic or Premium required for SLA",
         "ImageFile": "activedirectory.png",
-        "SLA": 99.900,
+        "SLA": 99.990,
         "SlaAgreementUrl": "https://azure.microsoft.com/support/legal/sla/active-directory"
       },
       {
@@ -386,7 +386,7 @@
         "Name": "Multi-factor Authentication",
         "Notes": "",
         "ImageFile": "activedirectory.png",
-        "SLA": 99.900,
+        "SLA": 99.990,
         "SlaAgreementUrl": "https://azure.microsoft.com/support/legal/sla/active-directory"
       }
     ]
@@ -399,7 +399,7 @@
         "Name": "Key Vault",
         "Notes": "",
         "ImageFile": "keyvault.png",
-        "SLA": 99.900,
+        "SLA": 99.990,
         "SlaAgreementUrl": "https://azure.microsoft.com/support/legal/sla/key-vault"
       }
     ]
