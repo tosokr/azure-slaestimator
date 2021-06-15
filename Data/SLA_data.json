@@ -245,6 +245,22 @@
         "ImageFile": "dns.png",
         "SLA": 100.00,
         "SlaAgreementUrl": "https://azure.microsoft.com/support/legal/sla/dns"
+      },
+      {
+        "CategoryName": "Networking",
+        "Name": "Azure Firewall (deployed within two or more Availability Zones )",
+        "Notes": "",
+        "ImageFile": "firewall.png",
+        "SLA": 99.990,
+        "SlaAgreementUrl": "https://azure.microsoft.com/en-us/support/legal/sla/azure-firewall"
+      },
+      {
+        "CategoryName": "Networking",
+        "Name": "Azure Firewall (deployed within a single Availability Zones )",
+        "Notes": "",
+        "ImageFile": "firewall.png",
+        "SLA": 99.950,
+        "SlaAgreementUrl": "https://azure.microsoft.com/en-us/support/legal/sla/azure-firewall"
       }
     ]
   },
